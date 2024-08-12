@@ -1,0 +1,76 @@
+<html - lang="pt-br">
+<head>
+  <link rel="stylesheet" href = "style.css"/><title>MUSICA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gupter:wght@400;500;700&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gupter:wght@400;500;700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+
+</head> 
+  
+<body>
+<header> MUSICA - A MELHOR MUSICA DO MUNDO
+ <img src = "https://albumsinorder.com/wp-content/uploads/2023/01/Bruno-Mars-Album-photo.jpg"> 
+  </header>
+  
+  <section class="entrada">     
+<div class= "primeiro"> 
+<h3> THE KAZY SONG
+</h3>
+<p class= "descricao"> Directed by Bruno Mars and Cameron Duddy
+
+Choreographed and Performed by Poreotics: http://poreotics.com
+
+Comic Chimp Mask used by permission of Easter Unlimited, Inc. / FunWorld Div. All Rights Reserved. Copyright 2009.
+</p>
+</div>
+      
+<div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fLexgOxsZu0?si=9Y_qTKT2jHH9DzAG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+</section>
+<section class="outros">
+  <h3>outros destaques</h3>  
+  <div class = "clipes">
+    
+    
+    <a href="https://www.youtube.com/watch?v=w4csEGQPpR0">
+      <img src="https://img.youtube.com/vi/w4csEGQPpR0/maxresdefault.jpg"/>
+    </a>
+    
+    
+    <a href="https://https://www.youtube.com/watch?v=E1s_LAHlptU">
+      <img src="https://img.youtube.com/vi/E1s_LAHlptU/maxresdefault.jpg"/>
+    </a>
+    
+    
+    <a href="https://www.youtube.com/watch?v=DjNqxTODmuc">
+      <img src="https://img.youtube.com/vi/DjNqxTODmuc/maxresdefault.jpg"/>
+    </a>
+    
+    
+    <a href="https://img.youtube.com/vi/VbfpW0pbvaU/maxresdefault.jpg">
+      <img src="https://img.youtube.com/vi/w4csEGQPpR0/maxresdefault.jpg"/>
+    </a>
+     
+    
+    <a href="https://https://www.youtube.com/watch?v=Mhj15W23IjA">
+      <img src="https://img.youtube.com/vi/Mhj15W23IjA/maxresdefault.jpg"/>
+    </a>
+    
+    <a href="https://https://www.youtube.com/watch?v=VbfpW0pbvaU">
+      <img src="https://img.youtube.com/vi/VbfpW0pbvaU/maxresdefault.jpg"/>
+    </a>
+    
+  </div>
+<section>
+</body>
+</html>
+  
+  https://www.youtube.com/watch?v=E1s_LAHlptU
+  https://www.youtube.com/watch?v=DjNqxTODmuc
+  https://www.youtube.com/watch?v=S1HODJaX2Vo
+  https://www.youtube.com/watch?v=Mhj15W23IjA
+  https://www.youtube.com/watch?v=VbfpW0pbvaU
