@@ -1,0 +1,67 @@
+body{
+  color: #F44336;
+  background: #511C5A;
+  margin: 20px;
+}
+
+header {
+  font-size: 60px;
+  color: #E91E63;
+  border-bottom: solid 2px white;
+  margin: 20px;
+  padding: 20px;
+  font-family: "Kanit", sans-serif;
+}
+.entrada {
+  font-family: "Gupter", serif;
+ background:#EE6895;
+  margin: 20px;
+  padding: 20px;
+  font-size: 30px;
+  display: flex; 
+}
+
+.descricao{
+  font-size: 20px;
+}
+
+.primeiro{
+  margin-right: 20px;
+}
+
+img{
+  height: 200px;
+}
+
+.clipes{
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+p{
+  text-aling: justify;
+}
+
+.outros{
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 30px;
+  font-family: "Gupter", serif;
+}
+
+.outros img{
+  opacity: 0.5;  
+}
+
+.outros img:hover {
+  opacity: 1.0;
+  border: solid 3px red;
+  border-radius: 20px;
+}
+
+.logo {
+  position: relative;
+  top: -40px;
+  left: 500px;
+  width: 200px;
+}
